@@ -6,8 +6,12 @@
 3. Vijay Srinivas Panchangam
 4. Saipriya Nimmagadda
 5. Varun Potluri
-6. 
+
 # Abstract
+Till now the attacks on classifiers were mostly through changing the data that is trained to get the wrong classifier which is the Data Poisoning or change the input during the testing, which is called the Data Evasion, also known to be the black box, grey box and the white box attacks respectively. Measures have been taken and models were evolved to overcome and identify the attackers. But zero query attacks are truly a stealthy attack. The attacker won’t have any access to the victim system. The attacker can implement an attack plan once by perturbing multiple objects in each scene and submitting the perturbed input. 
+
+# Motivation
+Adversarial Perturbations is a form of attack in which bad actors attempt to manipulate machine learning models that detect attacks and anomalies by “poisoning” the data they train on. These Perturbations give a understanding about the model to the attackers so that they can change the data to make the classifiers go wrong. Black box attacks, White box attacks and grey box attacks mainly target on the data to make the classifier go wrong. But the no box attacks target the meta data. We think that with experimentation and research; we could attempt to test an existing open-source dataset and model against existing no box attack or query-based attacks and to help inform the maintainers of the dangers that such techniques may face and how to mitigate them
 
 # Goals
 1. Classify 24 kinds of signal and get higher accuracy in lower SNR value.
