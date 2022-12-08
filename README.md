@@ -28,12 +28,21 @@ Varun Potluri
 
 Making-Signals-Naturally-Difficult-to-Classify-with-Supervised-Learning-Algorithms
     ├── Code
+    
     │   ├── Ectract Dataset.ipynb
+    
     │   ├── Classification-proposed-model-resnet-modified-highest.ipynb
+    
     │   ├── 
+    
     │   ├── ...
+    
     ├── ExtractDataset
+    
     │   ├── part0.h5
+    
     │   ├── part1.h5
+    
     │   ├── part2.h5
+    
     │   ├── ....
