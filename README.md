@@ -27,6 +27,7 @@ Varun Potluri
 2. Create new folder and name it "ExtractDataset", extract all the dataset and put on that folder using the code available named "Extract Dataset.ipynb", the folder structure will be like below:
 
 Making-Signals-Naturally-Difficult-to-Classify-with-Supervised-Learning-Algorithms
+
     ├── Code
     │   ├── Ectract Dataset.ipynb
     │   ├── Classification-proposed-model-resnet-modified-highest.ipynb
