@@ -1,10 +1,12 @@
 # Making-Signals-Naturally-Difficult-to-Classify-with-Supervised-Learning-Algorithms
+
 # Contributors
-Raviteja Avuthu
-Raghuveer Pachipulusu
-Vijay Srinivas Panchangam
-Saipriya Nimmagadda
-Varun Potluri
+1. Raviteja Avuthu
+2. Raghuveer Pachipulusu
+3. Vijay Srinivas Panchangam
+4. Saipriya Nimmagadda
+5. Varun Potluri
+6. 
 # Abstract
 
 # Goals
